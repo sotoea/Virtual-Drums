@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: e986387728de37f4b877d15ec4a384dd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Frame.Back
+    100004: Frame.Bottom
+    100006: Left.Arm
+    100008: Left.Arm.Centre
+    100010: Left.Back.Cushion
+    100012: Left.Cushion
+    100014: Point
+    100016: Right.Arm
+    100018: Right.Arm.Centre
+    100020: Right.Back.Cushion
+    100022: Right.Cushion
+    100024: //RootNode
+    400000: Camera
+    400002: Frame.Back
+    400004: Frame.Bottom
+    400006: Left.Arm
+    400008: Left.Arm.Centre
+    400010: Left.Back.Cushion
+    400012: Left.Cushion
+    400014: Point
+    400016: Right.Arm
+    400018: Right.Arm.Centre
+    400020: Right.Back.Cushion
+    400022: Right.Cushion
+    400024: //RootNode
+    2300000: Frame.Back
+    2300002: Frame.Bottom
+    2300004: Left.Arm
+    2300006: Left.Arm.Centre
+    2300008: Left.Back.Cushion
+    2300010: Left.Cushion
+    2300012: Right.Arm
+    2300014: Right.Arm.Centre
+    2300016: Right.Back.Cushion
+    2300018: Right.Cushion
+    3300000: Frame.Back
+    3300002: Frame.Bottom
+    3300004: Left.Arm
+    3300006: Left.Arm.Centre
+    3300008: Left.Back.Cushion
+    3300010: Left.Cushion
+    3300012: Right.Arm
+    3300014: Right.Arm.Centre
+    3300016: Right.Back.Cushion
+    3300018: Right.Cushion
+    4300000: Right.Arm
+    4300002: Right.Arm.Centre
+    4300004: Frame.Back
+    4300006: Frame.Bottom
+    4300008: Right.Cushion
+    4300010: Left.Cushion
+    4300012: Left.Back.Cushion
+    4300014: Left.Arm
+    4300016: Left.Arm.Centre
+    4300018: Right.Back.Cushion
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
